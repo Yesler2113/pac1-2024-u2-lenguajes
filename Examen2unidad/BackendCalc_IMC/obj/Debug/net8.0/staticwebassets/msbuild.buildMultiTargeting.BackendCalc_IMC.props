@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BackendCalc_IMC.props" />
+</Project>
